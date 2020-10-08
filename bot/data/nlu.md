@@ -503,3 +503,21 @@
 - esqueça os meus dados
 - remova meu CPF e data de nascimento
 - limpar dados
+
+## intent:foursquare
+- foursquare [Amapá](cidade) [AP](estado)
+- foursquare [Natal](cidade) [RN](estado)
+- foursquare [Belém](cidade) [PA](estado)
+- foursquare [Cuiabá](cidade) [MT](estado)
+- foursquare [Aracaju](cidade) [SE](estado)
+- foursquare [Brasília](cidade) [DF](estado)
+- foursquare [Curitiba](cidade) [PR](estado)
+- foursquare [Teresina](cidade) [PI](estado)
+- foursquare [São Paulo](cidade) [SP](estado)
+- foursquare [Boa Vista](cidade) [RR](estado)
+- foursquare [Rio Grande](cidade) [RS](estado)
+- foursquare [Juiz de Fora](cidade) [MG](estado)
+- foursquare [Rio de Janeiro](cidade) [RJ](estado)
+- foursquare [São José dos Campos](cidade) [SP](estado)
+
+<!-- - foursquare [Salvador](cidade) [Bahia](estado) -->

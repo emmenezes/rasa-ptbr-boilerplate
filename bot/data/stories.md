@@ -354,3 +354,7 @@
 ## story_limpar_slots
 * limpar_slots
     - action_restart
+
+## story_foursquare
+* foursquare
+    - utter_foursquare
